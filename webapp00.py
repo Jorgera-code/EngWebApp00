@@ -14,10 +14,10 @@ Configurar_Pagina("Exemplo 1",
 st.title("Engenharia PJ")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Configurações")
+st.header("Centro de exelência de Jundiaí")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("Contruindo estratégias com confiabilidade e eficiência")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
