@@ -20,7 +20,7 @@ st.header("A mulher mais linda desse mundo")
 st.subheader("Uma mulher guerreira que não teme a nada, tem a coragem de um leão, a sabedoria de uma coruja e o carinho de uma gatinha (toda dengosa)")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Em muitos momentos pode tirar a sua paciência, mas independente de qualquer situação sempre está do seu lado, não consigo imaginar como seria a vida sem ela. Dona de um sorriso tão lindo que ilumina toda a noite, deusa de um corpo tão gostoso que é impossivel não se apaixonar")
+st.write("Em muitos momentos pode tirar a sua paciência, mas independente de qualquer situação sempre está do seu lado, não consigo imaginar como seria a vida sem ela. Dona de um sorriso tão lindo que ilumina toda a noite, deusa de um corpo tão gostoso que é impossivel não se apaixonar!! Te amo demais vidinha!!")
 
 Divisor()
     
@@ -29,8 +29,8 @@ with coluna1[0]:
   Escrever("")
 with coluna1[1]:
   Escrever("O que você mais gosta do Jorgera?", "titulo")
-  nome = Ler(rotulo = "Nome:", nmax=30, tipo="padrao", info="Inserção de Nome", autocompletar=None, na_mudanca=None, args=None, kwargs=None, placeholder="Não esqueça de preencher seu nome", desabilitada="falso", visibilidade="visivel")
+  nome = Ler(rotulo = "Passa a visão:", nmax=30, tipo="padrao", info="Inserção de Nome", autocompletar=None, na_mudanca=None, args=None, kwargs=None, placeholder="Jorgera é um gostoso", desabilitada="falso", visibilidade="visivel")
   if nome:     
-    Escrever("Seja Bem vinda(o), " + nome + "!")
+    Escrever("Você tem razão, ele é sensacional!!")
 with coluna1[2]:
   Escrever("")
